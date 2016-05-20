@@ -1,0 +1,5 @@
+D:\ys\GitHub\MovieTransform\Transform.Lib\bin\Debug\Transform.Lib.dll
+D:\ys\GitHub\MovieTransform\Transform.Lib\bin\Debug\Transform.Lib.pdb
+D:\ys\GitHub\MovieTransform\Transform.Lib\obj\Debug\Transform.Lib.csprojResolveAssemblyReference.cache
+D:\ys\GitHub\MovieTransform\Transform.Lib\obj\Debug\Transform.Lib.dll
+D:\ys\GitHub\MovieTransform\Transform.Lib\obj\Debug\Transform.Lib.pdb

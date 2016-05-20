@@ -1,0 +1,5 @@
+D:\ys\AliCloud\ImageTransform\MovieCaptureLib\bin\Debug\MovieCaptureLib.dll
+D:\ys\AliCloud\ImageTransform\MovieCaptureLib\bin\Debug\MovieCaptureLib.pdb
+D:\ys\AliCloud\ImageTransform\MovieCaptureLib\obj\Debug\MovieCaptureLib.csprojResolveAssemblyReference.cache
+D:\ys\AliCloud\ImageTransform\MovieCaptureLib\obj\Debug\MovieCaptureLib.dll
+D:\ys\AliCloud\ImageTransform\MovieCaptureLib\obj\Debug\MovieCaptureLib.pdb

@@ -1,0 +1,12 @@
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\bin\Debug\Transform.UI.WPF.exe
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\bin\Debug\Transform.UI.WPF.pdb
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.csprojResolveAssemblyReference.cache
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\MainWindow.baml
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\MainWindow.g.cs
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\App.g.cs
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF_MarkupCompile.cache
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.g.resources
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.Properties.Resources.resources
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.csproj.GenerateResource.Cache
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.exe
+D:\ys\GitHub\MovieTransform\Transform.UI.WPF\obj\Debug\Transform.UI.WPF.pdb

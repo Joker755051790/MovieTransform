@@ -1,0 +1,16 @@
+D:\ys\AliCloud\ImageTransform\TransformTest\obj\Debug\TransformTest.csprojResolveAssemblyReference.cache
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\TransformTest.dll
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\TransformTest.pdb
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\MovieCaptureLib.dll
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\MovieCaptureLib.pdb
+D:\ys\AliCloud\ImageTransform\TransformTest\obj\Debug\TransformTest.dll
+D:\ys\AliCloud\ImageTransform\TransformTest\obj\Debug\TransformTest.pdb
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\ImageLib.dll
+D:\ys\AliCloud\ImageTransform\TransformTest\bin\Debug\ImageLib.pdb
+D:\ys\GitHub\MovieTransform\test\Transform.Test\bin\Debug\Transform.Test.dll
+D:\ys\GitHub\MovieTransform\test\Transform.Test\bin\Debug\Transform.Test.pdb
+D:\ys\GitHub\MovieTransform\test\Transform.Test\bin\Debug\Transform.Lib.dll
+D:\ys\GitHub\MovieTransform\test\Transform.Test\bin\Debug\Transform.Lib.pdb
+D:\ys\GitHub\MovieTransform\test\Transform.Test\obj\Debug\TransformTest.csprojResolveAssemblyReference.cache
+D:\ys\GitHub\MovieTransform\test\Transform.Test\obj\Debug\Transform.Test.dll
+D:\ys\GitHub\MovieTransform\test\Transform.Test\obj\Debug\Transform.Test.pdb

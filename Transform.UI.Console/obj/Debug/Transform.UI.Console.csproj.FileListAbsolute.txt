@@ -1,0 +1,5 @@
+D:\ys\GitHub\MovieTransform\Transform.UI.Console\bin\Debug\Transform.UI.Console.exe
+D:\ys\GitHub\MovieTransform\Transform.UI.Console\bin\Debug\Transform.UI.Console.pdb
+D:\ys\GitHub\MovieTransform\Transform.UI.Console\obj\Debug\Transform.UI.Console.csprojResolveAssemblyReference.cache
+D:\ys\GitHub\MovieTransform\Transform.UI.Console\obj\Debug\Transform.UI.Console.exe
+D:\ys\GitHub\MovieTransform\Transform.UI.Console\obj\Debug\Transform.UI.Console.pdb
