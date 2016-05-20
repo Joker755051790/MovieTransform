@@ -1,2 +1,2 @@
 # MovieTransform
-transform movie to binary image
+This Simple Project is used to make video screenshots and transform the images into bit arrays which can be displayed in console
