@@ -26,8 +26,6 @@ namespace Transform.UI.Console
 
         static void Main(string[] args)
         {
-            System.Console.Write("ready to show...");
-            Thread.Sleep(2000);
             System.Console.Clear();
             System.Console.SetBufferSize(imageWidth, imageHeight);
 
